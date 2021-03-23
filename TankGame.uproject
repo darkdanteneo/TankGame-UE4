@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{7C509C23-4A4F-F94A-548D-97BC24F00C6E}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TankGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
